@@ -1,3 +1,7 @@
+# custom
+shared/data/
+shared/data_raw/
+shared/output_sent_logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

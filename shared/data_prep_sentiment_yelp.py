@@ -62,7 +62,7 @@ def load_reviews(fn_yelp_reviews):
             rating = entry.pop("stars", 0.0)
             data.append({"id": business_id, "rid": review_id, "text": text, "rating": rating})
             # TESTING
-            if n > 10000:
+            if n > 3000:
                  break
 
     df = pd.DataFrame.from_dict(data)

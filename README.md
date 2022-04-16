@@ -1,4 +1,6 @@
-# NLP
+# CSCI 6040 Spring 2022
+## Amy Wightman | James Rosebaugh-Nordan | Connor Bullard
+<br>
 
 Optional
 ----------------

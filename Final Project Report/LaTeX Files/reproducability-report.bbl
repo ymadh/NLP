@@ -3,6 +3,18 @@
 \bibitem{korner-etal-2021-casting-sentiment}
 Erik K{\"o}rner, Ahmad~Dawar Hakimi, Gerhard Heyer, and Martin Potthast.
 \newblock Casting the same sentiment classification problem.
-\newblock pages 584--590, November 2021.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EMNLP 2021}, pages 584--590, Punta Cana, Dominican Republic, November 2021.
+  Association for Computational Linguistics.
+
+\bibitem{project-repo}
+Amy Wightman, James Rosebaugh-Nordan, and Connor Bullard.
+\newblock Csci 6040 final project github repository.
+  https://github.com/ymadh/nlp.
+
+\bibitem{source-repo}
+Erik K{\"o}rner, Ahmad~Dawar Hakimi, Gerhard Heyer, and Martin Potthast.
+\newblock Github repository for casting the same sentiment classification
+  problem. https://github.com/webis-de/emnlp21-same-sentiment.
 
 \end{thebibliography}

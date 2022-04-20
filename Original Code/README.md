@@ -1,6 +1,8 @@
 SameSentiment
 =============
 
+## Original Repo: https://github.com/webis-de/emnlp21-same-sentiment
+
 Setup (environment)
 -------------------
 

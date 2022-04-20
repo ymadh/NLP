@@ -15,6 +15,24 @@
     abstract = "We introduce and study a problem variant of sentiment analysis, namely the {``}same sentiment classification problem{''}, where, given a pair of texts, the task is to determine if they have the same sentiment, disregarding the actual sentiment polarity. Among other things, our goal is to enable a more topic-agnostic sentiment classification. We study the problem using the Yelp business review dataset, demonstrating how sentiment data needs to be prepared for this task, and then carry out sequence pair classification using the BERT language model. In a series of experiments, we achieve an accuracy above 83{\%} for category subsets across topics, and 89{\%} on average.",
 }
 
+@inproceedings{same-paper,
+	author = {Cui, Limeng and Wang, Suhang and Lee, Dongwon},
+	title = {SAME: Sentiment-Aware Multi-Modal Embedding for Detecting Fake News},
+	year = {2019},
+	isbn = {9781450368681},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3341161.3342894},
+	doi = {10.1145/3341161.3342894},
+	abstract = {How to effectively detect fake news and prevent its diffusion on social media has gained much attention in recent years. However, relatively little focus has been given on exploiting user comments left for posts and latent sentiments therein in detecting fake news. Inspired by the rich information available in user comments on social media, therefore, we investigate whether the latent sentiments hidden in user comments can potentially help distinguish fake news from reliable content. We incorporate users' latent sentiments into an end-to-end deep embedding framework for detecting fake news, named as SAME. First, we use multi-modal networks to deal with heterogeneous data modalities. Second, to learn semantically meaningful spaces per data source, we adopt an adversarial mechanism. Third, we define a novel regularization loss to bring embeddings of relevant pairs closer. Our comprehensive validation using two real-world datasets, PolitiFact and GossipCop, demonstrates the effectiveness of SAME in detecting fake news, significantly outperforming state-of-the-art methods.},
+	booktitle = {Proceedings of the 2019 IEEE/ACM International Conference on Advances in 	Social Networks Analysis and Mining},
+	pages = {41–48},
+	numpages = {8},
+	keywords = {multi-modal, social media, fake news detection},
+	location = {Vancouver, British Columbia, Canada},
+	series = {ASONAM '19}
+}
+
 @misc{source-repo,
     title = "GitHub Repository for Casting the Same Sentiment Classification Problem. https://github.com/webis-de/emnlp21-same-sentiment.",
     author = {K{\"o}rner, Erik  and
@@ -30,4 +48,16 @@
     	Rosebaugh-Nordan, James and
     	Bullard, Connor},
 	url = "https://github.com/ymadh/NLP"
+}
+
+@misc{tds-hugging-face,
+ 	title = {Sentiment Analysis in 10 Minutes with BERT and TensorFlow},
+ 	howpublished = {\url{https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671}},
+ 	note = {Accessed: 2022-04-19}
+}
+
+@misc{tds-yelp-reviews,
+	title = {Building a Sentiment Analysis Model using Yelp Reviews and ML Ensemble Methods},
+	howpublished = {\url{https://towardsdatascience.com/building-a-sentiment-analysis-model-using-yelp-reviews-and-ml-ensemble-methods-80e45db6d0c7}},
+	note = {Accessed: 2022-04-19}
 }

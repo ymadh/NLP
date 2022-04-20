@@ -1,20 +1,32 @@
 \begin{thebibliography}{1}
 
-\bibitem{korner-etal-2021-casting-sentiment}
+\bibitem{source-repo}
 Erik K{\"o}rner, Ahmad~Dawar Hakimi, Gerhard Heyer, and Martin Potthast.
-\newblock Casting the same sentiment classification problem.
-\newblock In {\em Findings of the Association for Computational Linguistics:
-  EMNLP 2021}, pages 584--590, Punta Cana, Dominican Republic, November 2021.
-  Association for Computational Linguistics.
+\newblock Github repository for casting the same sentiment classification
+  problem. https://github.com/webis-de/emnlp21-same-sentiment.
 
 \bibitem{project-repo}
 Amy Wightman, James Rosebaugh-Nordan, and Connor Bullard.
 \newblock Csci 6040 final project github repository.
   https://github.com/ymadh/nlp.
 
-\bibitem{source-repo}
-Erik K{\"o}rner, Ahmad~Dawar Hakimi, Gerhard Heyer, and Martin Potthast.
-\newblock Github repository for casting the same sentiment classification
-  problem. https://github.com/webis-de/emnlp21-same-sentiment.
+\bibitem{tds-hugging-face}
+Sentiment analysis in 10 minutes with bert and tensorflow.
+\newblock
+  \url{https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671}.
+\newblock Accessed: 2022-04-19.
+
+\bibitem{tds-yelp-reviews}
+Building a sentiment analysis model using yelp reviews and ml ensemble methods.
+\newblock
+  \url{https://towardsdatascience.com/building-a-sentiment-analysis-model-using-yelp-reviews-and-ml-ensemble-methods-80e45db6d0c7}.
+\newblock Accessed: 2022-04-19.
+
+\bibitem{same-paper}
+Limeng Cui, Suhang Wang, and Dongwon Lee.
+\newblock Same: Sentiment-aware multi-modal embedding for detecting fake news.
+\newblock In {\em Proceedings of the 2019 IEEE/ACM International Conference on
+  Advances in Social Networks Analysis and Mining}, ASONAM '19, page 41–48,
+  New York, NY, USA, 2019. Association for Computing Machinery.
 
 \end{thebibliography}

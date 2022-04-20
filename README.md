@@ -6,6 +6,10 @@
 | James Rosebaugh-Nordan     | rosebaughnordanj20@students.ecu.edu  |
 | Connor Bullard             | bullardc21@students.ecu.edu          |
 
+## Authors' Repository
+----------------
+https://github.com/webis-de/emnlp21-same-sentiment
+
 ## Our Implementation
 ----------------
 https://github.com/ymadh/NLP/blob/main/Final%20Project/OurImplementation_v2.ipynb
@@ -15,7 +19,7 @@ To use the full dataset, run the kaggle test notebook which will download the fi
 Dataset can also be downloaded directly from yelp using [this link](https://www.yelp.com/dataset/download).
 
 ## Failed Attempts & Previous Attempts
--------------------
+----------------
 From the author's code with some minor changes to prepare for execution:
 
 https://github.com/ymadh/NLP/blob/shared/D2_samesentiment_yelp_create_pairs.ipynb - This was successful\
